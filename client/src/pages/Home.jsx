@@ -29,7 +29,7 @@ export const Home = () => {
 
                 <div className="mb-10">
                     <h2 className="text-2xl font-bold text-gray-800 mb-2">Our Solution</h2>
-                    <p>To address these problems, we have developed JudgeGPT and OrganizerGPT, AI-powered tools that revolutionize the hackathon experience by providing a bias-free, efficient, and transparent judging and organizing process. JudgeGPT enables judges to evaluate participants' projects by uploading the presentation and project idea of each participant. The idea is scored on a scale of 1-10, and all positive and negative points are mentioned along with the score, enabling judges to provide feedback efficiently. Meanwhile, OrganizerGPT streamlines the hackathon organization process, ensuring a seamless experience for hosts and participants alike.</p>
+                    <p>To address these problems, we have developed JudgeGPT and HostGPT, AI-powered tools that revolutionize the hackathon experience by providing a bias-free, efficient, and transparent judging and organizing process. JudgeGPT enables judges to evaluate participants' projects by uploading the presentation and project idea of each participant. The idea is scored on a scale of 1-10, and all positive and negative points are mentioned along with the score, enabling judges to provide feedback efficiently. Meanwhile, HostGPT streamlines the hackathon hosting process, ensuring a seamless experience for hosts and participants alike. </p>
                 </div>
 
                 <div>
