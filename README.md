@@ -70,14 +70,14 @@ Welcome to the HackSupport - An innovative solution for judges and organizers to
 
 <p>
  <p>
-    <a href="https://github.com/Ahmadjajja/EcoFactory"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/aleeza23/HacksSupport"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://lablab.ai/event/leap-2024-hackathon/ecofactor-team/ecofactor-smart-manufactures-solutions">View Project</a>
+<!--     <a href="https://lablab.ai/event/leap-2024-hackathon/ecofactor-team/ecofactor-smart-manufactures-solutions">View Project</a> -->
     ·
-    <a href="https://github.com/Ahmadjajja/EcoFactory/issues">Report Bug</a>
+    <a href="https://github.com/aleeza23/HacksSupport/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Ahmadjajja/EcoFactory/issues">Request Feature</a>
+    <a href="https://github.com/aleeza23/HacksSupport/issues">Request Feature</a>
   </p>
 </p>
 
