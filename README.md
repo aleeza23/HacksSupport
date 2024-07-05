@@ -58,27 +58,14 @@
 
 Welcome to the HackSupport - An innovative solution for judges and organizers to shape the future of hackathons.  we have developed JudgeGPT and HostGPT, AI-powered tools that revolutionize the hackathon experience by providing a bias-free, efficient, and transparent judging and organizing process. JudgeGPT enables judges to evaluate participants' projects by uploading the presentation and project idea of each participant. The idea is scored on a scale of 1-10, and all positive and negative points are mentioned along with the score, enabling judges to provide feedback efficiently. Meanwhile, HostGPT streamlines the hackathon hosting process, ensuring a seamless experience for hosts and participants alike.
 
-<img src="./projectImages/EcoFactor.jpg">
-<img src="./projectImages/ecofactorteam.jpg">
-<img src="./projectImages/Technologies.jpg">
-<img src="./projectImages/Challanges.jpg">
-<img src="./projectImages/Features.jpg">
-<img src="./projectImages/FuturePlans.jpg">
-<img src="./projectImages/idea1.jpg">
-<img src="./projectImages/idea2.jpg">
-<img src="./projectImages/idea3.jpg">
-<img src="./projectImages/idea4.jpg">
-<img src="./projectImages/Demo.jpg">
-<img src="./projectImages/1.png">
-<img src="./projectImages/2.png">
-<img src="./projectImages/3.png">
-<img src="./projectImages/4.png">
-<img src="./projectImages/5.png">
-<img src="./projectImages/6.png">
-<img src="./projectImages/7.png">
-<img src="./projectImages/8.png">
-<img src="./projectImages/9.png">
-<img src="./projectImages/10.png">
+<img src="./demo/imh01.PNG">
+<img src="./demo/img02.PNG">
+<img src="./demo/img03.PNG">
+<img src="./demo/img04.PNG">
+<img src="./demo/img05.PNG">
+<img src="./demo/img06.PNG">
+<img src="./demo/img07.png">
+
 
 
 <p>
