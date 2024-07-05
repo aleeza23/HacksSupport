@@ -50,7 +50,7 @@
                 </a> 
             </td>
 
-        </tr> 
+     
 </tbody>
 <table>
 
@@ -87,12 +87,12 @@ Welcome to the HackSupport - An innovative solution for judges and organizers to
 
 ## Installation 
 
-To install and run EcoFactory Application locally, follow these steps:
+To install and run HacksSupport locally, follow these steps:
 
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/Ahmadjajja/EcoFactory
+    git clone https://github.com/aleeza23/HacksSupport
 
     ```
 2. **Create Virtual Environment and Activate it**
@@ -104,16 +104,15 @@ To install and run EcoFactory Application locally, follow these steps:
 3. **Install the packages:**
 
     ```bash
-        cd v2Server 
+        cd server 
         pip install -r requirements.txt
     
     ```
 
 4. **Run the Application** For back-end 
-<br>
+
     ```bash
-        python app.py
-    
+        python app.py    
     ```   
 5. **For Front-end**
     ```bash
@@ -132,14 +131,14 @@ To install and run EcoFactory Application locally, follow these steps:
     ```
 
 ### Where to ask for help?
-Report the bug [here](https://github.com/Ahmadjajja/EcoFactory/issues).
+Report the bug [here](https://github.com/aleeza23/HacksSupport/issues)
 
 
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-To contribute to the EcoFactory App, 
+To contribute to the HacksSupport, 
 
 Clone this repo locally and commit your code on a separate branch.
 If you're making core changes please write unit tests for your code, and check that everything works by running the following before opening a pull-request
@@ -160,16 +159,16 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [python-image]: https://img.shields.io/badge/python-v3.6+-blue.svg
 [license-image]: https://img.shields.io/badge/license-MIT-blue.svg
 
-[contributors-shield]: https://img.shields.io/github/contributors/Ahmadjajja/EcoFactory.svg?style=for-the-badge
-[contributors-url]: https://github.com/Ahmadjajja/EcoFactory/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Ahmadjajja/EcoFactory.svg?style=for-the-badge
-[forks-url]: https://github.com/Ahmadjajja/EcoFactory/network/members
-[stars-shield]: https://img.shields.io/github/stars/Ahmadjajja/EcoFactory.svg?style=for-the-badge
-[stars-url]: https://github.com/Ahmadjajja/EcoFactory/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Ahmadjajja/EcoFactory.svg?style=for-the-badge
-[issues-url]: https://github.com/Ahmadjajja/EcoFactory/issues
-[license-shield]: https://img.shields.io/github/license/Ahmadjajja/EcoFactory.svg?style=for-the-badge
-[license-url]: https://github.com/Ahmadjajja/EcoFactory/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/aleeza23/HacksSupport.svg?style=for-the-badge
+[contributors-url]: https://github.com/aleeza23/HacksSupport/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/aleeza23/HacksSupport.svg?style=for-the-badge
+[forks-url]: https://github.com/aleeza23/HacksSupport/network/members
+[stars-shield]: https://img.shields.io/github/stars/aleeza23/HacksSupport.svg?style=for-the-badge
+[stars-url]: https://github.com/aleeza23/HacksSupport/stargazers
+[issues-shield]: https://img.shields.io/github/issues/aleeza23/HacksSupport.svg?style=for-the-badge
+[issues-url]: https://github.com/aleeza23/HacksSupport/issues
+[license-shield]: https://img.shields.io/github/license/aleeza23/HacksSupport.svg?style=for-the-badge
+[license-url]: https://github.com/aleeza23/HacksSupport/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 
 
