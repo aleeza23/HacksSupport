@@ -15,7 +15,7 @@ export const Header = () => {
         <header className="bg-[#27182F] text-white py-4 px-5">
             <div className="container mx-auto flex justify-between items-center">
                 <div className="text-lg font-bold">
-                    <Link to="/">HacksSupport</Link>
+                    <Link to="/">HackSupport</Link>
                 </div>
                 <nav className="hidden md:flex space-x-6">
                     <Link to="/" className={getLinkClass('/')}>Home</Link>
