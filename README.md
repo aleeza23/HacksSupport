@@ -28,34 +28,35 @@
                     <sub><b>Mohammad Abutair</b></sub>
                 </a> 
             </td>
-          <td align="center">
-                <a href="https://www.linkedin.com/in/aymen-noor/">
-                    <img src="https://media.licdn.com/dms/image/D4D03AQF-QoehWfkGBg/profile-displayphoto-shrink_800_800/0/1706020377873?e=1719446400&v=beta&t=3NKUYJ3nhKZR0bW59JoT2YpgOq7NYj5hJSX8rASMZiU" width="100px;" alt="Aymen Noor"/>
-                    <br />
-                    <sub><b>Aymen Noor</b></sub>
-                </a> 
-            </td>
-            <td align="center">
-                <a href="https://github.com/inamprograms">
-                    <img src="https://avatars.githubusercontent.com/u/113470083?v=4" width="100px;" alt="Inam Ul Rehman"/>
-                    <br />
-                    <sub><b>Inam Ul Rehman</b></sub>
-                </a> 
-            </td>
-            <td align="center">
-                <a href="https://github.com/aleeza23">
+                        <td align="center">
+                <a href="https://www.linkedin.com/in/aleezarubab/">
                     <img src="https://avatars.githubusercontent.com/u/130530849?v=4" width="100px;" alt="Aleeza Rubab"/>
                     <br />
                     <sub><b>Aleeza Rubab</b></sub>
                 </a> 
             </td>
+          <td align="center">
+                <a href="#">
+                    <img src="https://media.discordapp.net/attachments/1258047041310031938/1258442307590684704/IMG_20240704_201947.jpg?ex=6688b7fa&is=6687667a&hm=46356ab6027cf583eb6bfe87d70e5f29f3453f39d4ae0a4d7387d99c2c46c651&=&format=webp&width=596&height=599" width="100px;" alt="Aymen Noor"/>
+                    <br />
+                    <sub><b>Khadijah Shabir</b></sub>
+                </a> 
+            </td>
+            <td align="center">
+                <a href="#">
+                    <img src="https://media.discordapp.net/attachments/1258057323440635994/1258438626350465034/IMG-20231116-WA0004.jpg?ex=6688b48d&is=6687630d&hm=63857cdbed817e218e786d6197fe4f759a88f74d56b51e67055ca621ac53a5a3&=&format=webp&width=399&height=599" width="100px;" alt="Inam Ul Rehman"/>
+                    <br />
+                    <sub><b>Saima Zainab</b></sub>
+                </a> 
+            </td>
+
         </tr> 
 </tbody>
 <table>
 
 # Project Description:
 
-Hello! Welcome to EcoFactor - a chatbot that helps manufacturers select more sustainable and cost-effective materials and processes for their products, ensuring compliance with ESG standards. It offers a significant variety of resources and AI assistants that together provide a set of features oriented towards optimizing manufacturing processes, including product optimization, material replacement, and studying ESG documentation. A distinctive feature of ECOFACTOR is the combined use of autonomous AI assistants, responsible for navigating the internet, locating and filtering relevant information about the user's products and processes, as well as the supplier directory, dynamically and autonomously fed by Ecofactor's virtual assistant. 
+Welcome to the HackSupport - An innovative solution for judges and organizers to shape the future of hackathons.  we have developed JudgeGPT and HostGPT, AI-powered tools that revolutionize the hackathon experience by providing a bias-free, efficient, and transparent judging and organizing process. JudgeGPT enables judges to evaluate participants' projects by uploading the presentation and project idea of each participant. The idea is scored on a scale of 1-10, and all positive and negative points are mentioned along with the score, enabling judges to provide feedback efficiently. Meanwhile, HostGPT streamlines the hackathon hosting process, ensuring a seamless experience for hosts and participants alike.
 
 <img src="./projectImages/EcoFactor.jpg">
 <img src="./projectImages/ecofactorteam.jpg">
