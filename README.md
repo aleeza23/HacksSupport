@@ -54,7 +54,7 @@
 </tbody>
 <table>
 
-# Project Description:
+# Project Idea:
 
 Welcome to the HackSupport - An innovative solution for judges and organizers to shape the future of hackathons.  we have developed JudgeGPT and HostGPT, AI-powered tools that revolutionize the hackathon experience by providing a bias-free, efficient, and transparent judging and organizing process. JudgeGPT enables judges to evaluate participants' projects by uploading the presentation and project idea of each participant. The idea is scored on a scale of 1-10, and all positive and negative points are mentioned along with the score, enabling judges to provide feedback efficiently. Meanwhile, HostGPT streamlines the hackathon hosting process, ensuring a seamless experience for hosts and participants alike.
 
