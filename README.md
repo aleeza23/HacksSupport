@@ -9,21 +9,21 @@
         <tr>
           <td align="center">
                 <a href="https://www.linkedin.com/in/moligott/">
-                    <img src="https://media.discordapp.net/attachments/1257935718484017224/1258443826125738014/WhatsApp_Image_2023-06-10_at_21.36.48.jpg?ex=6688b964&is=668767e4&hm=2f6d4543b8587a1a6e313a05bd4c635e2999a9cae20a8745264e2238f68db937&=&format=webp&width=450&height=599" width="100px;" alt="Bruno Cesar"/>
+                    <img src="https://media.discordapp.net/attachments/1257935718484017224/1258443826125738014/WhatsApp_Image_2023-06-10_at_21.36.48.jpg?ex=6688b964&is=668767e4&hm=2f6d4543b8587a1a6e313a05bd4c635e2999a9cae20a8745264e2238f68db937&=&format=webp&width=450&height=599" width="100px;" alt="Moli"/>
                     <br />
                     <sub><b>Moli G.ott.</b></sub>
                 </a> 
             </td>
           <td align="center">
                 <a href="#">
-                    <img src="https://media.discordapp.net/attachments/1256952185636393021/1258443547762491493/IMG_2728.png?ex=6688b922&is=668767a2&hm=69065d77f377381b03b117f56e2d69d055309819fff15a686d986f0b07da8b38&=&format=webp&quality=lossless&width=599&height=599" width="100px;" alt="Katrina Cekmarjova"/>
+                    <img src="https://media.discordapp.net/attachments/1256952185636393021/1258443547762491493/IMG_2728.png?ex=6688b922&is=668767a2&hm=69065d77f377381b03b117f56e2d69d055309819fff15a686d986f0b07da8b38&=&format=webp&quality=lossless&width=599&height=599" width="100px;" alt="Tobias"/>
                     <br />
                     <sub><b>Tobias Sami</b></sub>
                 </a> 
             </td>
             <td align="center">
                 <a href="https://github.com/abutair">
-                    <img src="https://media.discordapp.net/attachments/1256952185636393021/1258447200468467833/1690549379348.png?ex=6688bc89&is=66876b09&hm=5809b27474939f519fcb313d1184ffd6342be1eb205ddf329f3ddc8dd4ff22d2&=&format=webp&quality=lossless&width=599&height=599" width="100px;" alt="Ahmad Jajja"/>
+                    <img src="https://media.discordapp.net/attachments/1256952185636393021/1258447200468467833/1690549379348.png?ex=6688bc89&is=66876b09&hm=5809b27474939f519fcb313d1184ffd6342be1eb205ddf329f3ddc8dd4ff22d2&=&format=webp&quality=lossless&width=599&height=599" width="100px;" alt="Mohammed"/>
                     <br />
                     <sub><b>Mohammad Abutair</b></sub>
                 </a> 
@@ -36,15 +36,15 @@
                 </a> 
             </td>
           <td align="center">
-                <a href="www.linkedin.com/in/saima-zainab-958ba7240">
-                    <img src="https://media.discordapp.net/attachments/1258047041310031938/1258442307590684704/IMG_20240704_201947.jpg?ex=6688b7fa&is=6687667a&hm=46356ab6027cf583eb6bfe87d70e5f29f3453f39d4ae0a4d7387d99c2c46c651&=&format=webp&width=596&height=599" width="100px;" alt="Aymen Noor"/>
+                <a href="#">
+                    <img src="https://media.discordapp.net/attachments/1258047041310031938/1258442307590684704/IMG_20240704_201947.jpg?ex=6688b7fa&is=6687667a&hm=46356ab6027cf583eb6bfe87d70e5f29f3453f39d4ae0a4d7387d99c2c46c651&=&format=webp&width=596&height=599" width="100px;" alt="khadijaa"/>
                     <br />
                     <sub><b>Khadijah Shabir</b></sub>
                 </a> 
             </td>
             <td align="center">
-                <a href="#">
-                    <img src="https://media.discordapp.net/attachments/1258057323440635994/1258438626350465034/IMG-20231116-WA0004.jpg?ex=6688b48d&is=6687630d&hm=63857cdbed817e218e786d6197fe4f759a88f74d56b51e67055ca621ac53a5a3&=&format=webp&width=399&height=599" width="100px;" alt="Inam Ul Rehman"/>
+                <a href="www.linkedin.com/in/saima-zainab-958ba7240">
+                    <img src="https://media.discordapp.net/attachments/1258057323440635994/1258438626350465034/IMG-20231116-WA0004.jpg?ex=6688b48d&is=6687630d&hm=63857cdbed817e218e786d6197fe4f759a88f74d56b51e67055ca621ac53a5a3&=&format=webp&width=399&height=599" width="100px;" alt="Saima"/>
                     <br />
                     <sub><b>Saima Zainab</b></sub>
                 </a> 
